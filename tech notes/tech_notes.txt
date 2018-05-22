@@ -1,0 +1,44 @@
+About Nimbus
+----------------------
+
+Nimbus is a open source Framework with below features.
+
+Customized Workflow - Users can configure the process flow depends on their busseness needs.
+Configurable UI - No need to write the code to develop the UI ..just need to use annotations to get the UI component.
+Multi Tenancy - Supports multiple tanant (Saas)
+Cloud based solution
+Customized and configurable rules.
+Providing the ability to build application through configuration.
+Providing boilerplate code for cross cutting concerns.
+
+
+Technologies used:
+-----------------
+Core Java
+Spring fox
+spring data
+junit
+querydsl
+Mongo db
+JSON
+Maven
+Nexus - Repository manager
+SonarQube - Code analysis
+Spring boot
+drools - rules engine
+YAML - For confguration files
+Activiti designer - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins
+
+Dependency
+-----------
+<dependency>
+  <groupId>com.antheminc.oss</groupId>
+  <artifactId>nimbus.core.web-exec</artifactId>
+  <version>1.0.0.M9-SNAPSHOT</version>
+</dependency>
+
+
+
+
+
+
